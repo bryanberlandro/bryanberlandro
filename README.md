@@ -1,4 +1,4 @@
-<img src="banner-bryan.png" alt="bryanberlandro">
+<img src="banner-bryan.png" alt="bryanberlandro" size="10">
 <div align="center">
   # ⚡ Bryan Berlandro  
   ### Synthesizing Code, Design, and Human Experience  
