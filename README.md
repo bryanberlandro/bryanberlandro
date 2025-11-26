@@ -1,6 +1,8 @@
-
-# ⚡ Bryan Berlandro  
-### Synthesizing Code, Design, and Human Experience
+<img src="banner-bryan.png" alt="bryanberlandro">
+<div align="center">
+  # ⚡ Bryan Berlandro  
+  ### Synthesizing Code, Design, and Human Experience  
+</div>
 
 <sub>Frontend · Backend · Full-Stack Engineering</sub>  
 <sub>JavaScript · TypeScript · React · Node · Express · MERN</sub>
