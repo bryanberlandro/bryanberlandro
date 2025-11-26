@@ -1,7 +1,6 @@
-<img src="banner-bryan.png" alt="bryanberlandro" size="10">
 <div align="center">
-  # ⚡ Bryan Berlandro  
-  ### Synthesizing Code, Design, and Human Experience  
+  ⚡ Bryan Berlandro Godlive ⚡
+  Synthesizing Code, Design, and Human Experience  
 </div>
 
 <sub>Frontend · Backend · Full-Stack Engineering</sub>  
