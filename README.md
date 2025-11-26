@@ -1,16 +1,17 @@
 <div align="center">
-  ⚡ Bryan Berlandro Godlive ⚡
-  Synthesizing Code, Design, and Human Experience  
-</div>
 
-<sub>Frontend · Backend · Full-Stack Engineering</sub>  
-<sub>JavaScript · TypeScript · React · Node · Express · MERN</sub>
+# ⚡ Bryan Berlandro Godlive  
+### Synthesizing Code, Design, and Human Experience
+
+<sub>Frontend · Backend · Full-Stack Engineering · UI/UX</sub>  
+<sub>JavaScript · TypeScript · React · Node · Express · MERN · Figma</sub>
 
 <br>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-7F00FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/Vibes-Futuristic%20%7C%20Minimalist-1A1A1A?style=for-the-badge">
 
+</div>
 ---
 
 ## 🧬 Who Am I?
