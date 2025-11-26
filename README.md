@@ -85,7 +85,7 @@ Designed with a **soft futuristic aesthetic**, safe interactions, and structured
 ---
 
 ## 🛰 Connect  
-📫 Email: *your@email.com*  
+📫 Email: bryangodlive0@gmail.com 
 💬 Open to collaborations and innovative ideas.
 
 ---
